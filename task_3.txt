@@ -1,0 +1,6 @@
+Ivanov 10000
+Petrov 15000
+Sidorov 16000
+Ivanova 20000
+Petrova 30000
+Sidorova 40000
